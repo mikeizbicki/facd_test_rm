@@ -1,0 +1,19 @@
+{
+  "stale": [
+    "sub0003/outline.json",
+    "sub0003/sub0002/outline.json"
+  ],
+  "notbuilt": [
+    "outline.json"
+  ],
+  "unresolved": [],
+  "waiting": [],
+  "phantom": [],
+  "buildable": [],
+  "build_required": [],
+  "built": [
+    "basic.json",
+    "deps/a",
+    "deps/b"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "stale": [],
+  "notbuilt": [],
+  "unresolved": [],
+  "waiting": [],
+  "phantom": [],
+  "buildable": [],
+  "build_required": [],
+  "built": [
+    "basic.json",
+    "deps/a",
+    "deps/b",
+    "outline.json"
+  ]
+}
