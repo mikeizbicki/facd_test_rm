@@ -13,5 +13,6 @@
     "outline.json",
     "sub0003/outline.json",
     "sub0003/sub0002/outline.json"
-  ]
+  ],
+  "build_error": []
 }

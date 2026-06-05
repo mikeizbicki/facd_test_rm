@@ -15,5 +15,6 @@
     "basic.json",
     "deps/a",
     "deps/b"
-  ]
+  ],
+  "build_error": []
 }

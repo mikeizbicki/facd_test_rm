@@ -11,5 +11,6 @@
     "deps/a",
     "deps/b",
     "outline.json"
-  ]
+  ],
+  "build_error": []
 }
